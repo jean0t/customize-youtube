@@ -6,13 +6,18 @@ I wanted to make my youtube different in style, more clean and prettier, so I se
 
 ## How to Install
 
-- First install the extension "youtube tweaks".
+- First install the extension "youtube tweaks".  
+![image](https://github.com/jean0t/customize-youtube/assets/127698173/23765013-0718-4df2-8a49-69ad8e808829)
+
 - Second copy the css from the theme you would like to use, it is separated in the directory `themes`
-- Third open the extension, click on it and go to `options page`
+- Third open the extension, click on it and go to `options page`  
+![image](https://github.com/jean0t/customize-youtube/assets/127698173/7ab45931-cc4e-4ce3-a645-2d613bd6ab45)
+
 
 After that you will see an option called `custom css and js`, there you can make custom scripts in javascript to use and all, but we are going to use only the css part for customization.
 
-After that paste all the css in the css box and click save, you will see the changes applied immediately.
+After that paste all the css in the css box and click save, you will see the changes applied immediately.  
+![image](https://github.com/jean0t/customize-youtube/assets/127698173/82599bae-f0a1-42e1-bb72-ff3fb8089d9c)
 
 ## Credits
 
